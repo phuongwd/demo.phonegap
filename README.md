@@ -1,4 +1,4 @@
-Camera<br/>
+Camera Phonegap API<br/>
 ====================== Add plugin ========================<br/>
 $ cordova plugin add https://git-wip-us.apache.org/repos/asf/cordova-plugin-camera.git<br/>
 $ cordova plugin rm org.apache.cordova.core.camera<br/>
